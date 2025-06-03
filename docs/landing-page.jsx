@@ -143,22 +143,21 @@ const EngineeringJourney = () => {
               Every master was once a disaster.
             </p>
             <div className="text-lg md:text-xl text-gray-600 leading-relaxed">
-              <p className="mb-2">Through failure, I discovered <span className="font-medium text-emerald-700">thumos</span>:</p>
+              <p className="mb-2">Through failure, I found my <span className="font-medium text-emerald-700">thumos</span>—</p>
               <p className="text-base md:text-lg italic text-gray-500 mb-4">
-                (Greek: θυμός) - The passionate spirit that follows deep curiosity.
-                The force that transforms questions into code, problems into products.
+                that ancient Greek fire in the chest, the spirited courage that transforms curiosity into creation.
               </p>
-              <p className="font-medium">This is your invitation to discover yours.</p>
+              <p className="font-medium">This is your invitation to burn.</p>
             </div>
           </div>
           
           <div className="bg-gradient-to-b from-gray-50 to-white p-6 md:p-12 rounded-2xl md:rounded-3xl border border-gray-200 shadow-sm">
             <p className="text-lg md:text-2xl text-gray-800 font-light text-center mb-6 md:mb-8">
-              Military acronyms and evaluations—
-              <br className="hidden md:block" />
-              they served their purpose.
+              You are not your MOS. You are not your clearance.
               <br />
-              <span className="font-medium">Now build something that serves yours.</span>
+              You are not your DD-214.
+              <br />
+              <span className="font-medium">You are what you build next.</span>
             </p>
           </div>
 
@@ -235,11 +234,11 @@ You are what you build next.`}
 
           <div className="bg-amber-50/50 p-6 md:p-10 rounded-2xl md:rounded-3xl border border-amber-200">
             <p className="text-base md:text-xl text-amber-800 font-light leading-relaxed">
-              <span className="font-medium">Thumos</span> isn't motivation. It's deeper.
+              <span className="font-medium">Warning:</span> This path burns.
               <br />
-              It's the passion that emerges after genuine curiosity.
+              It will consume your evenings, your weekends, your comfortable certainties.
               <br />
-              <span className="font-medium">Find what fascinates you. The fire will follow.</span>
+              <span className="font-medium">But from those ashes, an engineer rises.</span>
             </p>
           </div>
 
@@ -259,19 +258,19 @@ You are what you build next.`}
       id: 'choice',
       number: '01',
       title: 'The Fork',
-      subtitle: 'Where warriors choose to become builders',
+      subtitle: 'Where warriors become builders',
       icon: GitBranch,
-      wisdom: 'One path maintains. The other creates.',
+      wisdom: 'Between the last command and the next lies everything.',
       content: (
         <div className="space-y-8 md:space-y-16 max-w-5xl mx-auto px-4 md:px-0">
           <div className="text-center space-y-4 md:space-y-6">
             <p className="text-2xl md:text-3xl font-light text-gray-700">
-              Two paths. One choice. Your future.
+              Two paths diverge in the digital wood.
             </p>
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              The difference isn't skill—it's mindset.
+              One maintains what is. One creates what could be.
               <br />
-              <span className="italic mt-2 md:mt-4 block">Which engineer will you become?</span>
+              <span className="italic mt-2 md:mt-4 block">The choice defines everything that follows.</span>
             </p>
           </div>
 
@@ -289,14 +288,14 @@ You are what you build next.`}
                   <h3 className="text-xl md:text-2xl font-light text-gray-700">Systems Administration</h3>
                 </div>
                 <p className="text-gray-600 mb-6 md:mb-8 italic text-sm md:text-base">
-                  The path of maintenance
+                  "I fix what others built"
                 </p>
                 
                 <div className="space-y-3 md:space-y-4 text-gray-600 text-sm md:text-base">
-                  <p>Keep existing systems running</p>
-                  <p>React to problems as they arise</p>
-                  <p>Master yesterday's technology</p>
-                  <p className="font-medium">Until AI does it better</p>
+                  <p>Keep the lights on</p>
+                  <p>Follow the runbook</p>
+                  <p>Master yesterday's stack</p>
+                  <p className="font-medium">Watch the world pass by</p>
                 </div>
               </div>
             </div>
@@ -314,14 +313,14 @@ You are what you build next.`}
                   <h3 className="text-xl md:text-2xl font-light text-emerald-800">Systems Engineering</h3>
                 </div>
                 <p className="text-emerald-700 mb-6 md:mb-8 italic text-sm md:text-base">
-                  The path of creation
+                  "I build what doesn't exist yet"
                 </p>
                 
                 <div className="space-y-3 md:space-y-4 text-emerald-700 text-sm md:text-base">
-                  <p>Build tomorrow's solutions</p>
-                  <p>Prevent problems before they exist</p>
-                  <p>Create the technology</p>
-                  <p className="font-medium">That others will maintain</p>
+                  <p>Architect the impossible</p>
+                  <p>Solve problems before they're problems</p>
+                  <p>Write the future</p>
+                  <p className="font-medium">In languages yet unlearned</p>
                 </div>
               </div>
             </div>
@@ -346,19 +345,19 @@ You are what you build next.`}
       id: 'stack',
       number: '02', 
       title: 'Your Arsenal',
-      subtitle: 'Production-grade tools for real engineering',
+      subtitle: 'Not tutorials. Tools.',
       icon: Layers,
-      wisdom: 'Master the fundamentals, the rest follows',
+      wisdom: 'In the space between keystrokes, universes wait.',
       content: (
         <div className="space-y-8 md:space-y-16 max-w-4xl mx-auto px-4 md:px-0">
           <div className="text-center space-y-4 md:space-y-6">
             <p className="text-2xl md:text-3xl font-light text-gray-700">
-              The Contextus Stack
+              Your Private Engineering Laboratory
             </p>
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              Not a tutorial. Not a toy.
+              Not playing with toys. Building with fire.
               <br />
-              <span className="font-medium">A complete monitoring laboratory.</span>
+              <span className="font-medium">The same tools that run the world.</span>
             </p>
           </div>
 
@@ -463,11 +462,11 @@ Time to build.`}
 
           <div className="bg-emerald-50 p-6 md:p-10 rounded-2xl md:rounded-3xl border border-emerald-200">
             <p className="text-base md:text-lg text-emerald-900 leading-relaxed">
-              This isn't about learning tools.
+              Tools are just tools until you breathe life into them.
               <br />
-              It's about building with them.
+              Code is just syntax until you solve something real.
               <br />
-              <span className="font-medium">Your GitHub profile is your new resume.</span>
+              <span className="font-medium">Your commits become your credentials.</span>
             </p>
           </div>
 
@@ -487,19 +486,19 @@ Time to build.`}
       id: 'labsetup',
       number: '03',
       title: 'The Laboratory',
-      subtitle: 'Where theory becomes practice',
+      subtitle: 'Where theory burns away and practice begins',
       icon: Wrench,
-      wisdom: 'Build in the open. Learn in public.',
+      wisdom: 'Perfect is the enemy of deployed.',
       content: (
         <div className="space-y-8 md:space-y-16 max-w-4xl mx-auto px-4 md:px-0">
           {/* Lab Setup Steps */}
           <div className="space-y-6 md:space-y-8">
             <div className="text-center space-y-4">
               <p className="text-2xl md:text-3xl font-light text-gray-700">
-                Your Private Engineering Laboratory
+                From Zero to Engineering
               </p>
               <p className="text-base md:text-lg text-gray-600">
-                Four steps to transformation. One command at a time.
+                Four commands between you and your future.
               </p>
             </div>
 
@@ -521,7 +520,7 @@ Time to build.`}
                   </h3>
                   <div className="space-y-4">
                     <p className="text-sm md:text-base text-gray-600">
-                      Your GitHub profile is your new professional identity. Every commit tells your story.
+                      Your GitHub is your new identity. Every commit writes your story. Every push proves your progress.
                     </p>
                     <ol className="list-decimal list-inside space-y-2 text-sm md:text-base text-gray-700">
                       <li>Visit <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-emerald-600 hover:underline">github.com</a></li>
@@ -561,7 +560,7 @@ Time to build.`}
                     </h3>
                     <div className="space-y-4">
                       <p className="text-sm md:text-base text-gray-600">
-                        Fork the Contextus repository to create your own copy. This is where your journey begins.
+                        Fork the fire. Make it yours. This is where transformation begins.
                       </p>
                       <div className="bg-gray-100 p-4 rounded-lg">
                         <p className="text-sm font-mono mb-2">Visit and fork:</p>
@@ -705,7 +704,7 @@ Ready to build!`}
                     </h3>
                     <div className="space-y-4">
                       <p className="text-sm md:text-base text-gray-600">
-                        Time to bring your lab to life. Run these commands:
+                        Three commands. That's all that stands between you and engineering.
                       </p>
                       <AnimatedTerminal
                         commands={[
@@ -827,17 +826,17 @@ Your journey begins now.`}
       id: 'journey',
       number: '04',
       title: 'The Journey',
-      subtitle: 'From day one to first job',
+      subtitle: 'Every master was once a disaster',
       icon: Compass,
-      wisdom: 'Consistency beats intensity',
+      wisdom: 'Start badly. Fail publicly. Document everything.',
       content: (
         <div className="space-y-8 md:space-y-16 max-w-4xl mx-auto px-4 md:px-0">
           <div className="text-center space-y-4">
             <p className="text-2xl md:text-3xl font-light text-gray-700">
-              Your 90-Day Transformation
+              90 Days to Engineer
             </p>
             <p className="text-base md:text-lg text-gray-600">
-              From "What's Docker?" to "I built that."
+              From "What's Docker?" to "I architected that."
             </p>
           </div>
 
@@ -976,23 +975,23 @@ Your journey begins now.`}
           {/* Daily Routine */}
           <div className="bg-gradient-to-br from-blue-50 to-indigo-50 p-6 md:p-10 rounded-2xl md:rounded-3xl border border-blue-200">
             <h3 className="text-xl md:text-2xl font-light text-gray-800 mb-6 text-center">
-              Your Daily Engineering Practice
+              The Daily Ritual of Becoming
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
               <div>
                 <Coffee className="w-10 h-10 md:w-12 md:h-12 text-blue-600 mx-auto mb-3" />
-                <h4 className="font-medium text-gray-800 mb-2 text-sm md:text-base">Morning (30 min)</h4>
-                <p className="text-sm md:text-base text-gray-600">Read docs, watch tutorial, plan tasks</p>
+                <h4 className="font-medium text-gray-800 mb-2 text-sm md:text-base">Dawn (30 min)</h4>
+                <p className="text-sm md:text-base text-gray-600">Feed the curiosity. Plan the assault.</p>
               </div>
               <div>
                 <Code className="w-10 h-10 md:w-12 md:h-12 text-blue-600 mx-auto mb-3" />
-                <h4 className="font-medium text-gray-800 mb-2 text-sm md:text-base">Afternoon (2 hrs)</h4>
-                <p className="text-sm md:text-base text-gray-600">Build something, break something, fix it</p>
+                <h4 className="font-medium text-gray-800 mb-2 text-sm md:text-base">Day (2 hrs)</h4>
+                <p className="text-sm md:text-base text-gray-600">Build. Break. Bleed. Rebuild stronger.</p>
               </div>
               <div>
                 <GitBranch className="w-10 h-10 md:w-12 md:h-12 text-blue-600 mx-auto mb-3" />
-                <h4 className="font-medium text-gray-800 mb-2 text-sm md:text-base">Evening (30 min)</h4>
-                <p className="text-sm md:text-base text-gray-600">Commit code, update notes, reflect</p>
+                <h4 className="font-medium text-gray-800 mb-2 text-sm md:text-base">Dusk (30 min)</h4>
+                <p className="text-sm md:text-base text-gray-600">Commit the evidence. Chronicle the journey.</p>
               </div>
             </div>
           </div>
@@ -1002,20 +1001,20 @@ Your journey begins now.`}
             <div className="text-center">
               <Users className="w-12 h-12 md:w-16 md:h-16 text-purple-600 mx-auto mb-4" />
               <h3 className="text-xl md:text-2xl font-light text-gray-800 mb-4">
-                You're Not Alone
+                You Don't Burn Alone
               </h3>
               <p className="text-base md:text-lg text-gray-600 mb-6">
-                Join the Contextus community. Every Thursday at 1800 EST.
+                Every Thursday at 1800 EST. Veterans building together.
               </p>
               <div className="space-y-3">
                 <p className="text-sm md:text-base text-gray-700">
-                  • Share your progress and struggles
+                  • Share your failures—they're more valuable than successes
                 </p>
                 <p className="text-sm md:text-base text-gray-700">
-                  • Get help when you're stuck
+                  • Debug together—two minds, one problem
                 </p>
                 <p className="text-sm md:text-base text-gray-700">
-                  • Celebrate wins together
+                  • Witness each other's transformation
                 </p>
               </div>
             </div>
@@ -1037,17 +1036,17 @@ Your journey begins now.`}
       id: 'transformation',
       number: '05',
       title: 'The Transformation',
-      subtitle: 'Your engineering identity awaits',
+      subtitle: 'The fire awaits',
       icon: Heart,
-      wisdom: 'The best time was yesterday. The next best time is now.',
+      wisdom: 'Between who you were and who you'll become lies only code.',
       content: (
         <div className="space-y-8 md:space-y-16 max-w-4xl mx-auto px-4 md:px-0">
           <div className="text-center space-y-4 md:space-y-6">
             <p className="text-2xl md:text-3xl font-light text-gray-700">
-              From Veteran to Engineer
+              The Becoming
             </p>
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
-              Not just a career change. A complete transformation.
+              Not a career change. A resurrection.
             </p>
           </div>
 
@@ -1057,29 +1056,29 @@ Your journey begins now.`}
               <div className="flex items-start gap-4">
                 <div className="bg-emerald-600 text-white rounded-full w-8 h-8 md:w-10 md:h-10 flex items-center justify-center flex-shrink-0 text-sm md:text-base">1</div>
                 <div className="flex-1">
-                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">Today: Start Building</h4>
-                  <p className="text-sm md:text-base text-gray-600">Fork Contextus. Deploy your lab. Make your first commit.</p>
+                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">Today: Light the Fire</h4>
+                  <p className="text-sm md:text-base text-gray-600">Fork. Deploy. Commit. The rest is inevitable.</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <div className="bg-emerald-600 text-white rounded-full w-8 h-8 md:w-10 md:h-10 flex items-center justify-center flex-shrink-0 text-sm md:text-base">2</div>
                 <div className="flex-1">
-                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">30 Days: Portfolio Grows</h4>
-                  <p className="text-sm md:text-base text-gray-600">Multiple projects. Daily commits. Real experience.</p>
+                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">30 Days: The Fire Spreads</h4>
+                  <p className="text-sm md:text-base text-gray-600">Your GitHub burns bright. Your skills ignite. Your future transforms.</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <div className="bg-emerald-600 text-white rounded-full w-8 h-8 md:w-10 md:h-10 flex items-center justify-center flex-shrink-0 text-sm md:text-base">3</div>
                 <div className="flex-1">
-                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">60 Days: Confidence Builds</h4>
-                  <p className="text-sm md:text-base text-gray-600">Solving real problems. Helping others. Building reputation.</p>
+                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">60 Days: From Ashes, Wings</h4>
+                  <p className="text-sm md:text-base text-gray-600">Problems bow before you. Others seek your fire. You've become the phoenix.</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <div className="bg-emerald-600 text-white rounded-full w-8 h-8 md:w-10 md:h-10 flex items-center justify-center flex-shrink-0 text-sm md:text-base">4</div>
                 <div className="flex-1">
-                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">90 Days: Engineer</h4>
-                  <p className="text-sm md:text-base text-gray-600">Interview ready. Portfolio complete. Future secured.</p>
+                  <h4 className="font-medium text-gray-800 mb-2 text-base md:text-lg">90 Days: Reborn</h4>
+                  <p className="text-sm md:text-base text-gray-600">You are not who you were. You are what you built.</p>
                 </div>
               </div>
             </div>
@@ -1142,7 +1141,7 @@ Your journey begins now.`}
           {/* CTA */}
           <div className="text-center space-y-6">
             <p className="text-xl md:text-2xl font-light text-gray-700">
-              Your transformation starts with one command:
+              Between you and your future: one command.
             </p>
             <AnimatedTerminal
               commands={[
@@ -1150,10 +1149,11 @@ Your journey begins now.`}
               ]}
               output={`Cloning into 'Contextus'...
 
-This isn't just code.
-It's your future.
+Between the last command and the next lies everything.
+In the space between keystrokes, universes wait.
 
-Start building.`}
+You are not your MOS. You are not your clearance.
+You are what you build next.`}
               id="final-terminal"
               enableCopy={true}
             />
@@ -1165,11 +1165,11 @@ Start building.`}
                 rel="noopener noreferrer"
                 className="inline-block px-8 md:px-12 py-4 md:py-5 bg-emerald-700 text-white rounded-xl md:rounded-2xl hover:bg-emerald-800 transition-all transform hover:scale-105 shadow-xl font-medium text-base md:text-lg"
               >
-                Start Your Journey Now
+                Begin the Burning
                 <ExternalLink className="inline-block ml-2 w-4 h-4 md:w-5 md:h-5" />
               </a>
               <p className="text-sm md:text-base text-gray-600">
-                Join hundreds of veterans already transforming their lives
+                Join the phoenix legion. Rise from your own ashes.
               </p>
             </div>
           </div>
@@ -1177,12 +1177,12 @@ Start building.`}
           {/* Final Inspiration */}
           <div className="bg-gray-900 text-white p-6 md:p-10 rounded-2xl md:rounded-3xl text-center">
             <p className="text-lg md:text-2xl font-light leading-relaxed">
-              You've served your country.
+              You served with honor.
               <br />
-              <span className="font-medium">Now serve your future.</span>
+              <span className="font-medium">Now build with fire.</span>
             </p>
             <p className="text-sm md:text-base text-gray-400 mt-4">
-              Every line of code is a step forward. Every commit is progress.
+              The thumos awaits. Let it consume you. Let it transform you.
             </p>
           </div>
         </div>
@@ -1206,7 +1206,7 @@ Start building.`}
               </span>
             </h1>
             <p className="text-xl md:text-2xl lg:text-3xl text-gray-600 max-w-3xl mx-auto font-light">
-              From military service to software engineering in 90 days
+              A phoenix rises from military ashes
             </p>
             <div className="pt-8">
               <button
