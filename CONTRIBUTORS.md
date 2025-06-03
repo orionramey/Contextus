@@ -13,7 +13,7 @@ Welcome to the Contextus community! This file celebrates everyone who has contri
 
 ## Our Community
 
-- Orion Ramey (@orionramey) - 2024-01-01 - Creator, 35T to DevOps Engineer
+- Orion Ramey (@orionramey) - 2024-01-01 - Creator, The way of Engineering: A journey of Discovery
 - [Your name here] - [Date] - [Your transition story]
 
 ## Share Your Story
