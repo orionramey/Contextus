@@ -19,6 +19,27 @@ Welcome to the Contextus documentation center. This is where your engineering jo
   - PowerShell automation
   - Common Windows issues
 
+### Development Environment
+- **[VSCODE_SETUP.md](VSCODE_SETUP.md)** - Visual Studio Code integration
+  - Essential extensions for the stack
+  - Workspace configuration
+  - Debugging setup
+  - Productivity tips
+
+### Project Management
+- **[ATLASSIAN_JIRA.md](ATLASSIAN_JIRA.md)** - Change management & tracking
+  - Jira project setup
+  - Agile workflows
+  - Confluence documentation
+  - Integration with development
+
+### Knowledge Management
+- **[OBSIDIAN_NOTES.md](OBSIDIAN_NOTES.md)** - Building your second brain
+  - Note-taking philosophy
+  - Vault organization
+  - Templates for engineers
+  - Linking knowledge
+
 ## 🎯 Learning Objectives
 
 By working through these documents, you will:

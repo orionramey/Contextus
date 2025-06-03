@@ -203,6 +203,29 @@ contextus/
 └── 📄 README.md         # You are here
 ```
 
+## 🛠️ Essential Tools
+
+### Development Environment
+- **[Visual Studio Code](docs/VSCODE_SETUP.md)** - Your engineering command center
+  - Integrated terminal and Git
+  - Docker & Kubernetes extensions
+  - Remote development capabilities
+  - Custom workspace for Contextus
+
+### Project Management
+- **[Atlassian/Jira](docs/ATLASSIAN_JIRA.md)** - Track your transformation
+  - Agile project management
+  - Learning progress tracking
+  - Integration with Git
+  - Free tier available
+
+### Knowledge Management
+- **[Obsidian](docs/OBSIDIAN_NOTES.md)** - Your second brain
+  - Markdown-based notes
+  - Link your learning
+  - Local storage
+  - Free forever
+
 ## 🤝 Community
 
 ### Thursday Gatherings
