@@ -1,0 +1,16 @@
+# Dashboard Provider Configuration
+# "The canvas for your metrics art"
+
+apiVersion: 1
+
+providers:
+  - name: 'Contextus Dashboards'
+    orgId: 1
+    folder: 'Contextus'
+    folderUid: 'contextus'
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 30
+    allowUiUpdates: true
+    options:
+      path: /var/lib/grafana/dashboards
